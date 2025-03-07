@@ -1,6 +1,7 @@
 {
   "name": "react-native-fitness-app",
   "version": "1.0.0",
+  "packageManager": "npm@latest",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
